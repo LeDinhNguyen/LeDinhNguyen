@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LeDinhNguyen
 - 👀 I’m interested in AI
+- ⚽ I like playing soccer
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
