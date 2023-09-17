@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nguyen and I'm a AI Student, from FPT University</h2>
+<h2 align="left">Hi 👋! My name is Nguyen and I'm a AI Student at FPT University, from Vietnam</h2>
 
 ###
 
